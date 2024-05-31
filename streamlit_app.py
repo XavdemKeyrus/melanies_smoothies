@@ -1,6 +1,7 @@
 # Import python packages
+# from snowflake.snowpark.functions import col
 import streamlit as st
-from snowflake.snowpark.functions import col
+from pyspark.sql.functions import col
 
 # Write directly to the app
 st.title("Customize Your Smoothie :cup_with_straw:")
