@@ -1,4 +1,5 @@
 # requirements.txt
+opencv
 snowflake-snowpark-python
 snowflake-connector-python
 streamlit==1.31.1
